@@ -1,0 +1,4 @@
+Necessary libraries:
+vgamepad
+keyboard
+pydirectinput
