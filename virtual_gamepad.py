@@ -148,14 +148,3 @@ keyboard.on_press_key("enter", while_pressed_enter)
 keyboard.on_release_key("enter", while_released_enter)
 
 keyboard.wait("")
-
-
-
-
-
-
-
-
-
-
-
